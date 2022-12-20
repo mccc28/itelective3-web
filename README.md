@@ -1,2 +1,2 @@
 # Ateneo de Davao University - Computer Science
-![alt text] ([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://www.addu.edu.ph/wp-content/uploads/2020/08/UniversitySeal240px.png) "AdDU Logo")
+![image](https://user-images.githubusercontent.com/93579394/208588838-e5701e2a-996e-409f-8e4a-fe9e080ef8c3.png)
