@@ -1,2 +1,18 @@
-# Ateneo de Davao University - Computer Studies ![image](https://user-images.githubusercontent.com/93579394/208588838-e5701e2a-996e-409f-8e4a-fe9e080ef8c3.png) ![image](https://user-images.githubusercontent.com/93579394/208589466-2df75585-477f-491e-9f06-3fe4b42f4106.png)
+# Ateneo de Davao University - Computer Studies
 
+## Table of Contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General Info
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Setup
+To run this project, install it locally using npm:
