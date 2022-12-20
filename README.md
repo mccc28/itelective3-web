@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General Info
-This project is simple Lorem ipsum dolor generator.
+This project is an Exam Management System using the MEVN Stack Framework.
 	
 ## Technologies
 Project is created with:
