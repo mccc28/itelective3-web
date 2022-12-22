@@ -4,9 +4,10 @@
 </p>
 
 <h3 align="center">Ateneo de Davao University - Computer Studies</h3>
+<br>
 
 ## Table of Contents
-* [General info](#general-info)
+* [General Info](#general-info)
 * [MEVN Framework](#mevn-framework)
 * [Project Description](#project-description)
 * [Possible Sub-systems](#possible-sub-system)
@@ -32,6 +33,6 @@ MEVN stack is the open-source JavaScript software stack that has emerged as a ne
 </p>
 
 ## Project Description
-The Computer Studies Cluster is proposing a system that could hold data records of students' exam grades scaling from freshmen to seniors.
+The Computer Studies Cluster is proposing a system that could hold data records of students' exam grades scaling from freshmen to seniors. Using MEVN Framework the CS will be creating a website intended for student users to interact with while the faculty members will be the admins and will be inputting the grades of the students in the said website. 
 
-## Possible Sub-system 
+## Possible Sub-systems
