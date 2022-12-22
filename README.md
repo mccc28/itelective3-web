@@ -10,7 +10,7 @@
 * [General Info](#general-info)
 * [Project Description](#project-description)
 * [MEVN Framework](#mevn-framework)
-* [Possible Sub-systems](#possible-sub-systems)
+* [Sub-systems](#sub-systems)
 
 ## General Info
 > This project proposal, Exam Management System for the Ateneo de Davao University Faculty to be used in organizing the grading system and records of students before and after the exam is conducted. Proposed idea is created by the Computer Studies Cluster using the MEVN Stack Framework.
@@ -35,4 +35,19 @@ MEVN stack is the open-source JavaScript software stack that has emerged as a ne
 	<img align="center" width="625" height="250" src="https://user-images.githubusercontent.com/93579394/209057914-b2332095-96b9-4a49-906f-7511d90f511a.png">
 </p>
 
-## Possible Sub-systems
+## Sub-systems
+The possible sub-systems thought by the CS Team are listed below:
+
+- View Grades
+	- A simple option for users to view grades.
+- Teacher Details
+	- Part of the system where it contains the participants of the proposed website.
+- School Details
+	- Holds the school basic information such as address, time open/close, courses, etc.
+
+Please refer to this image:
+<p align="center">
+	<img align="center" width="700" height="500" src="https://images.slideplayer.com/32/10083246/slides/slide_11.jpg">
+</p>
+
+<h1></h1>
