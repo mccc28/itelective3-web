@@ -13,7 +13,7 @@
 * [Sub-systems](#sub-systems)
 
 ## General Info
-> This project is an Exam Management System for the Ateneo de Davao University Faculty to be used in organizing the grading system and records of students before and after the exam is conducted. Proposed idea is created by the Computer Studies Cluster using the MEVN Stack Framework.
+> This project is an Exam Management System for the Ateneo de Davao University Faculty to be used in organizing the grading system and records of students before and after the exam is conducted. The said idea will be created by the Computer Studies Cluster with the use of the MEVN Stack Framework.
 	
 ## Project Description
 The Computer Studies Cluster will be having a system that could hold data records of students' exam grades scaling from freshmen to seniors. 
