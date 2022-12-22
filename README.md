@@ -1,6 +1,6 @@
 <h1 font-size: 50; align="center">Exam Management System (EMS)</h1>
 <p align="center">
-	<img align="center" width="150" height="150" src="https://user-images.githubusercontent.com/93579394/209055268-da0371c8-ce77-4c26-86d9-12bb8a5863ea.png"><img align="center" width="160" height="160" src="https://user-images.githubusercontent.com/93579394/209066457-a90f2158-5f25-44ba-aeb7-ef88edbb0e8e.png">
+	<img align="center" width="150" height="150" src="https://user-images.githubusercontent.com/93579394/209055268-da0371c8-ce77-4c26-86d9-12bb8a5863ea.png"><img align="center" width="150" height="150" src="https://user-images.githubusercontent.com/93579394/209066457-a90f2158-5f25-44ba-aeb7-ef88edbb0e8e.png">
 </p>
 
 <h3 align="center">Ateneo de Davao University - Computer Studies</h3>
